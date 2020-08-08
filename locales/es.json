@@ -1,7 +1,7 @@
 {
     "app.disclaimer.de": "{warframeMarket} es una pagina no asociada a {digitalExtremes}",
     "app.general.title": "Warframe Market",
-    "app.general.description": "La página líder de Warframe para los tenno, donde puedes comprar y vender objetos vaulteados o no, puedes comprar y vender objetos como: Partes de Warframes, Armas, Mods, Planos, Reliquias, Escenas, mods agrietados y Kuva Liches.",
+    "app.general.description": "La plataforma líder de intercambio de Warframe para los tenno, donde podréis comprar y vender artículos retirados o retornados de la Bóveda incluyendo conjuntos de Warframe, partes, armas, mods, reliquias, planos, escenas de estudio, agrietados y liches de Kuva.",
     "app.general.meta.tags": "warframe,market,buy,sell,trade,mod,blueprint,syndicate,relic,order,auction,wts,wtb,sales,worth,platinum,price,checking",
     "app.form.field_required": "Campo requerido",
     "app.form.can_not_be_null": "No puede ser nulo",
